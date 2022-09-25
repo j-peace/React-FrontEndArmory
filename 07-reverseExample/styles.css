@@ -1,0 +1,8 @@
+label {
+    display: flex;
+    margin: 16px 0;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
